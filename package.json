@@ -19,7 +19,6 @@
     "browserify-istanbul": "^2.0.0",
     "browserify-shim": "^3.8.12",
     "chai": "3.5.0",
-    "codecov": "^1.0.1",
     "gulp": "3.9.1",
     "gulp-coveralls": "0.1.4",
     "gulp-istanbul": "1.0.0",

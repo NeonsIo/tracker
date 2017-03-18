@@ -1,8 +1,6 @@
 #Neons javascript tracker
 
-[![Build Status](https://travis-ci.org/neonsio/tracker.svg?branch=master)](https://travis-ci.org/neonsio/tracker)
-[![CircleCI](https://circleci.com/gh/neonsio/tracker/tree/master.svg?style=svg)](https://circleci.com/gh/neonsio/tracker/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/neonsio/tracker/badge.svg?branch=integration-with-travis)](https://coveralls.io/github/neonsio/tracker?branch=integration-with-travis)
+[![CircleCI](https://circleci.com/gh/NeonsIo/tracker.svg?style=svg)](https://circleci.com/gh/NeonsIo/tracker)
 [![Dev dependencies](https://david-dm.org/neonsio/tracker/dev-status.svg)](https://david-dm.org/neonsio/tracker?type=dev)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
 
