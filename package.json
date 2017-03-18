@@ -1,9 +1,9 @@
 {
   "name": "tracker",
   "version": "1.0.0",
-  "description": "Javascript tracker for weba.io application",
+  "description": "Javascript tracker for neons.io application",
   "main": "src/index.ts",
-  "author": "weba",
+  "author": "neons",
   "license": "MIT",
   "scripts": {
     "pretest": "gulp lint",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://weba.io"
+    "url": "http://neons.io"
   },
   "keywords": [
     "analytics"

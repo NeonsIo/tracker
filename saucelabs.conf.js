@@ -76,7 +76,7 @@ module.exports = function (config) {
         customLaunchers: customLaunchers,
 
         sauceLabs: {
-            testName: 'weba.io tracker test'
+            testName: 'neons.io tracker test'
         },
 
         logLevel: config.LOG_INFO,
