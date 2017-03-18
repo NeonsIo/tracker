@@ -1,4 +1,4 @@
-#Neons javascript tracker
+# Neons javascript tracker
 
 [![CircleCI](https://circleci.com/gh/NeonsIo/tracker.svg?style=svg)](https://circleci.com/gh/NeonsIo/tracker)
 [![Dev dependencies](https://david-dm.org/neonsio/tracker/dev-status.svg)](https://david-dm.org/neonsio/tracker?type=dev)
@@ -6,19 +6,19 @@
 
 Part of neons.io application responsible for tracking visitors.
 
-##Documentation
+## Documentation
 
 You can read documentation [here](https://github.com/neonsio/tracker/wiki).
 
-##Browser support
+## Browser support
 
 Neons tracker is working in browser with ecmascript5 support. We are using Saucelabs for checking compatibility.
 Currently the minimal requirements for browsers we can find on grid:
 
-##Licence
+## Licence
 
 License can be found [here](https://github.com/neonsio/tracker/blob/master/LICENSE).
 
-##Authors
+## Authors
 
 See the list of [contributors](https://github.com/neonsio/tracker/contributors).
